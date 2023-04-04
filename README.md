@@ -1,4 +1,3 @@
-
 <h1 align="center" style="color: White"  > Sebastian Ligas &#129299 </h1>
 
 <p align="center">
@@ -19,11 +18,24 @@
 🌇 Place: Warsaw <br><br>
 <strong>Briefly about the project</strong>: Covshield- It is a project that is to make life easier for society in the era of COVID-19 and more. The main task of the device is to count the people in the room in which it is located, as well as to check the body temperature of the persona before its entrance 🤒
 
-For more information about the project, press on the logo: 
+For more information about the project, press on the logo:
 
 <p align="center">
 <a href="https://github.com/Covshield/CoVShield"><img alt="Covshield" title="Covshield" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/covshield.png" width="512" height="512"></a>
 </p>
+
+<h3>Olimpiada Elektronika - by żyło się łatwiej - Place in the top 10
+(places from 4 to 10 were treated ex aequo)</h3>
+📅 Date: March 2022 <br><br>
+🌇 Place: Gliwice <br><br>
+<strong>Briefly about the project</strong>: A much improved version of the previous version 🔝🔝🔝
+
+For more information about the project, press on the logo:
+
+<p align="center">
+<a href="https://github.com/Covshield/CoVShield"><img alt="Covshield" title="Covshield" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/covshield.png" width="512" height="512"></a>
+</p>
+
 </details>
 
 
