@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/linkedin.png"/></a>
-    <a href="https://www.facebook.com/sebastian.ligas.1"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/OXZM1L6.png"/></a>
+    <a href="https://www.facebook.com/sebastian.ligas.1"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/facebook.png"/></a>
 </p>
 
   
