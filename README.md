@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center" style="color: White; font-family: FreeMono, monospace, sans-serif; font-size: x-large"  > Sebastian Ligas </h3>
+  <h3 align="center" style="color: White; font-family: FreeMono, monospace, sans-serif; font-size:50px"  > Sebastian Ligas </h3>
 </p>
 
 <p align="center">
