@@ -13,6 +13,7 @@
 
 ### About me in a nutshell :clipboard:
 
+<<<<<<< HEAD
 #####
 Jestem absolwentem Zespółu Szkół Elektryczno-Mechanicznych im. gen. Józefa Kustronia w Nowym Sączu, gdzie uzyskałem tytuł - Technik Automatyk.
 
@@ -29,6 +30,8 @@ Po skończeniu technikum zostałem studentem Automatyki i Robotyki na wydziale E
 Poza spełnianiem obowiązków stawianych przez uczelnię, staram się rozwijać moje umiejętności w programowaniu w języku C, C++, oraz Python, robiąc różnego rodzaju aplikacje oraz projekty.
 Postępy można śledzić na moim Githubie.
 
+=======
+>>>>>>> 83162e6dd2296e16d90ea254f015396871bd7b32
   
 
 
