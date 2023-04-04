@@ -10,6 +10,9 @@
     <a href="https://www.instagram.com/ligas10105/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/instagram.png"/></a>
 </p>
 
+# 🔧 Languages and tools
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" />
+
 <details> 
     <summary><h1>🏆 My achievements</h1></summary>
     <p align="left"> 
@@ -38,12 +41,7 @@ For more information about the project, press on the logo:
 
 </details>
 
-<details>
- <summary><h1>🔧 Languages and tools</h1></summary>
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="" />
-
-</details>
 
 
 
