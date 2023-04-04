@@ -11,8 +11,32 @@
     <a href="https://www.instagram.com/ligas10105/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/instagram.png"/></a>
 </p>
 
-### About me in a nutshell :clipboard:
-#####
-I am a graduate of Zespół Szkół Elektryczno-Mechanicznych im Gen. Józef Kustronia in Nowy Sącz, where I obtained the title - Automation Technician. After finishing the technical school, I became a student of Automation and Robotics at the Faculty of EAIiIB of University of Science and Technology in Cracow. In addition to fulfilling the duties set by the university, I try to develop my skills in programming in C, C++, and Python.
+# My achievements :trophy:
+
+## Olimpiada Innowacji Technicznych i Wynalazczości - laureate title
+
+Date: June 2021
+
+Place: Warsaw 
+
+Project: Covshield - people counter in the room with measurement of their body temperature 🤒
+
+
+<details open> 
+    <summary><h2>🏆 My achievements</h2></summary>
+    <p align="left"> 
+    <h3>Olimpiada Innowacji Technicznych i Wynalazczości - laureate title</h3>
+📅 Date: June 2021 <br><br>
+🌇 Place: Warsaw <br><br>
+<strong>Briefly about the project</strong>: Covshield- It is a project that is to make life easier for society in the era of COVID-19 and more. The main task of the device is to count the people in the room in which it is located, as well as to check the body temperature of the persona before its entrance 🤒
+
+For more information about the project, press on the logo: 
+
+<a href=""/></a>
+</details>
+
+
+
+
 
 
