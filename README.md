@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/linkedin2.png"/></a>
+    <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/linkedin.png"/></a>
     <a href="https://www.facebook.com/sebastian.ligas.1"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/facebook.png"/></a>
+    <a href="https://www.instagram.com/ligas10105/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/instagram.png"/></a>
 </p>
 
   
