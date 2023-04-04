@@ -11,17 +11,6 @@
     <a href="https://www.instagram.com/ligas10105/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/instagram.png"/></a>
 </p>
 
-# My achievements :trophy:
-
-## Olimpiada Innowacji Technicznych i Wynalazczości - laureate title
-
-Date: June 2021
-
-Place: Warsaw 
-
-Project: Covshield - people counter in the room with measurement of their body temperature 🤒
-
-
 <details open> 
     <summary><h2>🏆 My achievements</h2></summary>
     <p align="left"> 
