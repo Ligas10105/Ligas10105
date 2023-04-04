@@ -27,10 +27,10 @@
 <br>
 <br>
 <br>
-<details> 
+
 # :green_book: My own projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ligas10105&repo=ArkanoidbySL)](https://github.com/Ligas10105/ArkanoidbySL)
-</details>
+
 <details> 
     <summary><h1>🏆 My achievements</h1></summary>
     <p align="left"> 
