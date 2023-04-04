@@ -12,27 +12,7 @@
 </p>
 
 ### About me in a nutshell :clipboard:
-
-<<<<<<< HEAD
 #####
-Jestem absolwentem Zespółu Szkół Elektryczno-Mechanicznych im. gen. Józefa Kustronia w Nowym Sączu, gdzie uzyskałem tytuł - Technik Automatyk.
-
-W trakcie nauki w szkole średniej wziąłem udział w dwóch olimpiadach, które wraz z zespołem zakończyliśmy sukcesem.
-
-- Olimpiada Innowacji Technicznych i Wynalazczości | Edycja 2021 | -- tytuł laureata -- Covshield.
-- Olimpiada Elektronika - by żyło się łatwiej | Edycja 2022 | -- miejsce w pierwszej 10 (miejsca od 4 do 10 były traktowane ex aequo) -- Covshield 2.0.
-
-Wraz z kumplem założyliśmy działaność, czyli sklep internetowy z produktami CBD "Hempforce" i prowadziliśmy go do matury.
-
-Po skończeniu technikum zostałem studentem Automatyki i Robotyki na wydziale EAIiIB Akademii Górniczo - Hutniczej im. Stanisława Staszica w Krakowie.
-
-
-Poza spełnianiem obowiązków stawianych przez uczelnię, staram się rozwijać moje umiejętności w programowaniu w języku C, C++, oraz Python, robiąc różnego rodzaju aplikacje oraz projekty.
-Postępy można śledzić na moim Githubie.
-
-=======
->>>>>>> 83162e6dd2296e16d90ea254f015396871bd7b32
-  
-
+I am a graduate of Zespół Szkół Elektryczno-Mechanicznych im Gen. Józef Kustronia in Nowy Sącz, where I obtained the title - Automation Technician. After finishing the technical school, I became a student of Automation and Robotics at the Faculty of EAIiIB of University of Science and Technology in Cracow. In addition to fulfilling the duties set by the university, I try to develop my skills in programming in C, C++, and Python.
 
 
