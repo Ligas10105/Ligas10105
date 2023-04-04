@@ -11,6 +11,8 @@
     <a href="https://www.instagram.com/ligas10105/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/instagram.png"/></a>
 </p>
 
+### About me in a nutshell :clipboard:
+
   
 
 
