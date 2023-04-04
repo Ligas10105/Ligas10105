@@ -2,7 +2,7 @@
 <h1 align="center" style="color: White; font-size: 300%" > Sebastian Ligas 👨‍🎓 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=23&pause=1000&color=ADF727&width=435&lines=Automatics+%26+Robotics+student+%F0%9F%A4%96" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=23&pause=1000&color=FB8C00&width=435&lines=Automatics+%26+Robotics+student+%F0%9F%A4%96" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
