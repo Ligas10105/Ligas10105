@@ -11,6 +11,7 @@
 </p>
 
 # 🔧 Languages and tools
+
 <img align="left" alt="Git" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" width="40" height="40" /> 
 <img align="left" alt="C++" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/cpp.png" width="40" height="40" /> 
 <img align="left" alt="C" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/c.png" width="40" height="40" /> 
@@ -20,6 +21,16 @@
 <br>
 <br>
 <br>
+# 📈 My Github stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ligas10105&theme=highcontrast)](https://git.io/streak-stats)
+<br>
+<br>
+<br>
+<details> 
+# :green_book: My own projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ligas10105&repo=ArkanoidbySL)](https://github.com/Ligas10105/ArkanoidbySL)
+</details>
 <details> 
     <summary><h1>🏆 My achievements</h1></summary>
     <p align="left"> 
@@ -48,9 +59,7 @@ For more information about the project, press on the logo:
 
 </details>
 
-# 📈 My Github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ligas10105&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
