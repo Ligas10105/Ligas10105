@@ -11,7 +11,7 @@
 </p>
 
 <details open> 
-    <summary><h2>🏆 My achievements</h2></summary>
+    <summary><h1>🏆 My achievements</h1></summary>
     <p align="left"> 
     <h3>Olimpiada Innowacji Technicznych i Wynalazczości - laureate title</h3>
 📅 Date: June 2021 <br><br>
