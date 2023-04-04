@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/linkedin.png"/></a>
-    <a href="https://www.facebook.com/sebastian.ligas.1"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/facebook.png"/></a>
-    <a href="https://www.instagram.com/ligas10105/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/instagram.png"/></a>
+    <a href="https://www.linkedin.com/in/sebastianligas/"><img width=50" alt="Linkedin" title="Linkedin" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/linkedin.png"/></a>
+    <a href="https://www.facebook.com/sebastian.ligas.1"><img width="50px" alt="Facebook" title="Facebook" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/facebook.png"/></a>
+    <a href="https://www.instagram.com/ligas10105/"><img width="50px" alt="Instagram" title="Instagram" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/instagram.png"/></a>
 </p>
 
 # 🔧 Languages and tools
@@ -47,6 +47,10 @@ For more information about the project, press on the logo:
 </p>
 
 </details>
+
+## My Github stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ligas10105)](https://git.io/streak-stats)
 
 
 
