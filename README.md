@@ -50,7 +50,7 @@ For more information about the project, press on the logo:
 
 ## My Github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ligas10105)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ligas10105&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
