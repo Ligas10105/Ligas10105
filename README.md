@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/Ligas10105/Ligas10105/blob/main/img.png"/></a>
 
 
