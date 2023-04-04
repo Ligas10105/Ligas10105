@@ -11,9 +11,15 @@
 </p>
 
 # 🔧 Languages and tools
-<img align="left" alt="Git" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" width="50" height="50" />
-<br>
+<img align="left" alt="Git" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" width="40" height="40" /> 
+<img align="left" alt="C++" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" width="40" height="40" /> 
+<img align="left" alt="C" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" width="40" height="40" /> 
+<img align="left" alt="Python" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" width="40" height="40" /> 
+<img align="left" alt="Autodesk" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" width="40" height="40" /> 
 
+<br>
+<br>
+<br>
 <details> 
     <summary><h1>🏆 My achievements</h1></summary>
     <p align="left"> 
