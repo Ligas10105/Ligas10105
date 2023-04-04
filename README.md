@@ -21,7 +21,8 @@
 <br>
 <br>
 <br>
-# 📈 My Github stats
+
+# :chart_with_upwards_trend: My Github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ligas10105&theme=highcontrast)](https://git.io/streak-stats)
 <br>
