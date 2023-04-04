@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://imgur.com/LdUCwc6"/></a>
+  <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://www.citypng.com/photo/12435/hd-green-linkedin-in-icon-text-symbol-sign-png"/></a>
 
 
