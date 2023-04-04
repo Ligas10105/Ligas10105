@@ -32,7 +32,7 @@ Project: Covshield - people counter in the room with measurement of their body t
 
 For more information about the project, press on the logo: 
 
-<a href="https://github.com/Covshield/CoVShield"><img alt="Covshield" title="Covshield" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/covshield.png" width="300" height="214"></a>
+<a href="https://github.com/Covshield/CoVShield"><img alt="Covshield" title="Covshield" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/covshield.png" width="512" height="512"></a>
 </details>
 
 
