@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+<<<<<<< HEAD
   <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://www.citypng.com/photo/12435/hd-green-linkedin-in-icon-text-symbol-sign-png"/></a>
+=======
+  <a href="https://www.linkedin.com/in/sebastianligas/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/Ligas10105/Ligas10105/blob/main/img.png"/></a>
+>>>>>>> 6edf3c17e595b19a5749ac37c21101114eadba34
 
 
