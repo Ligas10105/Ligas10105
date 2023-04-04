@@ -48,7 +48,7 @@ For more information about the project, press on the logo:
 
 </details>
 
-## My Github stats
+# 📈 My Github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ligas10105&theme=highcontrast)](https://git.io/streak-stats)
 
