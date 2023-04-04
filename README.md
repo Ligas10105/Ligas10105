@@ -11,7 +11,8 @@
 </p>
 
 # 🔧 Languages and tools
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" />
+<img align="left" alt="Git" width="30px" style="padding-right:20px;" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/github.png" />
+<br>
 
 <details> 
     <summary><h1>🏆 My achievements</h1></summary>
