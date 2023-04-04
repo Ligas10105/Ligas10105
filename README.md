@@ -60,10 +60,13 @@ For more information about the project, press on the logo:
 
 </details>
 
+<details> 
+    <summary><h1>🙋 About me </h1></summary>
+I am a student of Automatics and Robotics at the Univeristy of Science and Technology in Krakow. My passion is C++ programming, but I am also open to learning new technologies. I am an open-minded person, and I thrive on teamwork.
+</details>
 
 
-
-
+ 
 
 
 
