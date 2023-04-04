@@ -33,7 +33,7 @@ For more information about the project, press on the logo:
 For more information about the project, press on the logo:
 
 <p align="center">
-<a href="https://github.com/Covshield/CoVShield"><img alt="Covshield" title="Covshield" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/covshield.png" width="512" height="512"></a>
+<a href="https://github.com/Covshield/Covshield-2.0"><img alt="Covshield" title="Covshield" src="https://github.com/Ligas10105/Ligas10105/blob/main/icons/covshield.png" width="512" height="512"></a>
 </p>
 
 </details>
